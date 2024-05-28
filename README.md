@@ -100,9 +100,9 @@ To get started, simply install one of the recommended GUIs and refer to their do
 
 
 
-[readme_link]: 
-[documentation_link]:
-[src_link]: 
+[readme_link]: https://github.com/b-lovro/TriglavTactician/blob/master/README.md
+[documentation_link]:https://github.com/b-lovro/TriglavTactician/blob/master/DOCUMENTATION.md
+[src_link]: https://github.com/b-lovro/TriglavTactician/tree/master/src
 [qs_link]: https://www.chessprogramming.org/Quiescence_Search
 [PV_link]: https://www.chessprogramming.org/Principal_Variation
 [kill_link]: https://www.chessprogramming.org/Killer_Heuristic
